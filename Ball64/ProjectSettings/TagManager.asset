@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - player
+  - Item
+  - FinishPoint
+  - Jump_Pad
   layers:
   - Default
   - TransparentFX
